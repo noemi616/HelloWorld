@@ -2,6 +2,7 @@
 # Noemi is confidently beautiful.
 # Noemi is gorgeous.
 # Noemi is sexy.
+# Noemi is maganda.
 
 We should be at the point of a running Express site
 
