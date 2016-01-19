@@ -1,6 +1,7 @@
 # Step1
 # Noemi is confidently beautiful.
 # Noemi is gorgeous.
+# Noemi is sexy.
 
 We should be at the point of a running Express site
 
